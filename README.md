@@ -1,5 +1,4 @@
-# DestructiveBuild
-Salesforce SFDX Destructive Build
+# Salesforce SFDX Destructive Build
 
 ### Step 1 : Download and install SFDX CLI from the below URL :
   - https://developer.salesforce.com/tools/sfdxcli
